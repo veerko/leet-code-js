@@ -5,4 +5,4 @@ This repo contains Javascript solution for famous Leetcode problems (with code e
 Hit that `Star` button to show some ❤️  
 
 Cheers,   
-st1ko
+st1ko, st1ko-gs
